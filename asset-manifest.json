@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ImageSearch-v2/static/css/main.672a67c9.chunk.css",
+    "main.js": "/ImageSearch-v2/static/js/main.1b3d9cf9.chunk.js",
+    "main.js.map": "/ImageSearch-v2/static/js/main.1b3d9cf9.chunk.js.map",
+    "runtime-main.js": "/ImageSearch-v2/static/js/runtime-main.d649c4f1.js",
+    "runtime-main.js.map": "/ImageSearch-v2/static/js/runtime-main.d649c4f1.js.map",
+    "static/js/2.6b5d0544.chunk.js": "/ImageSearch-v2/static/js/2.6b5d0544.chunk.js",
+    "static/js/2.6b5d0544.chunk.js.map": "/ImageSearch-v2/static/js/2.6b5d0544.chunk.js.map",
+    "index.html": "/ImageSearch-v2/index.html",
+    "precache-manifest.4a0dab9f9868246c035476e307f23bdc.js": "/ImageSearch-v2/precache-manifest.4a0dab9f9868246c035476e307f23bdc.js",
+    "service-worker.js": "/ImageSearch-v2/service-worker.js",
+    "static/css/main.672a67c9.chunk.css.map": "/ImageSearch-v2/static/css/main.672a67c9.chunk.css.map",
+    "static/js/2.6b5d0544.chunk.js.LICENSE.txt": "/ImageSearch-v2/static/js/2.6b5d0544.chunk.js.LICENSE.txt",
+    "static/media/imagle.png": "/ImageSearch-v2/static/media/imagle.045ee8f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d649c4f1.js",
+    "static/js/2.6b5d0544.chunk.js",
+    "static/css/main.672a67c9.chunk.css",
+    "static/js/main.1b3d9cf9.chunk.js"
+  ]
+}
